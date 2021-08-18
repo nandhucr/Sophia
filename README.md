@@ -39,7 +39,6 @@ Click WA logo to Join Support Group 👇
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
   </div>
     ## 🎁Sophia
-
 | All Features 📢|Available ☑️|Version 🔎|
 
 | ------------- | ------------ | ---------- |
@@ -380,7 +379,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nandhucr/Sophia.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nandhucr/Sophia-.git)
      </div>
 <br>
 <br >
